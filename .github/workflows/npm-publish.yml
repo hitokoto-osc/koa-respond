@@ -45,7 +45,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
-          scope: '@octocat'
+          scope: '@hitokoto-osc'
       - run: yarn
       - run: yarn style
       - run: yarn test
