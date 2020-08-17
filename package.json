@@ -1,10 +1,10 @@
 {
-  "name": "koa-respond",
-  "version": "2.1.0",
+  "name": "@hitokoto/koa-respond",
+  "version": "3.0.0",
   "description": "Add useful methods to the Koa context for sending a response",
   "main": "lib/koa-respond.js",
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=12.0.0"
   },
   "scripts": {
     "test": "mocha test/**/*.js --require test/index.js",
