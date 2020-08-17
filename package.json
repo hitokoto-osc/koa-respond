@@ -24,15 +24,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeffijoe/koa-respond.git"
+    "url": "git+https://github.com/hitokoto-osc/koa-respond.git"
   },
   "keywords": [],
-  "author": "Jeff Hansen <jeff@jeffijoe.com>",
+  "author": "a632079 <a632079@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeffijoe/koa-respond/issues"
+    "url": "https://github.com/hitokoto-osc/koa-respond/issues"
   },
-  "homepage": "https://github.com/jeffijoe/koa-respond#readme",
+  "homepage": "https://github.com/hitokoto-osc/koa-respond#readme",
   "devDependencies": {
     "chai": "4.2.0",
     "coveralls": "3.1.0",
