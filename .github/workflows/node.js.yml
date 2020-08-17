@@ -27,4 +27,8 @@ jobs:
     - run: npm i -g yarn
     - run: yarn
     - run: yarn lint
-    - run: yarn coveralls
+      name: Lint
+    - name: Test & Coveralls
+      run: |
+        export COVERALLS_REPO_TOKEN=${{secrets.COVERALLS_REPO_TOKEN}}
+        yarn coveralls
