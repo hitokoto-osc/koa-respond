@@ -47,7 +47,7 @@
     "istanbul": "0.4.5",
     "koa": "2.13.0",
     "koa-router": "9.4.0",
-    "mocha": "5.2.0",
+    "mocha": "8.1.1",
     "prettier": "2.0.5",
     "sinon": "9.0.3",
     "sinon-chai": "3.5.0",
