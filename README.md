@@ -1,17 +1,10 @@
 # koa-respond
 
-[![npm](https://img.shields.io/npm/v/koa-respond.svg)](https://www.npmjs.com/package/koa-respond)
-[![dependency Status](https://img.shields.io/david/jeffijoe/koa-respond.svg)](https://david-dm.org/jeffijoe/koa-respond)
-[![devDependency Status](https://img.shields.io/david/dev/jeffijoe/koa-respond.svg)](https://david-dm.org/jeffijoe/koa-respond)
+[![npm](https://img.shields.io/npm/v/@hitokoto/koa-respond.svg)](https://www.npmjs.com/package/koa-respond)
 [![Build Status](https://img.shields.io/travis/jeffijoe/koa-respond.svg)](https://travis-ci.org/jeffijoe/koa-respond)
-[![Coveralls](https://img.shields.io/coveralls/jeffijoe/koa-respond.svg)](https://coveralls.io/github/jeffijoe/koa-respond)
-[![Code Climate](https://img.shields.io/codeclimate/github/jeffijoe/koa-respond.svg)](https://codeclimate.com/github/jeffijoe/koa-respond)
-[![npm](https://img.shields.io/npm/dt/koa-respond.svg)](https://www.npmjs.com/package/koa-respond)
+[![Coverage Status](https://coveralls.io/repos/github/hitokoto-osc/koa-respond/badge.svg?branch=master)](https://coveralls.io/github/hitokoto-osc/koa-respond?branch=master)
 [![license](https://img.shields.io/npm/l/koa-respond.svg)](https://github.com/jeffijoe/koa-respond/blob/master/LICENSE.md)
-[![node](https://img.shields.io/node/v/koa-respond.svg)](https://www.npmjs.com/package/koa-respond)
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-<a href="https://communityinviter.com/apps/koa-js/koajs" rel="KoaJs Slack Community">![KoaJs Slack](https://img.shields.io/badge/Koa.Js-Slack%20Channel-Slack.svg?longCache=true&style=for-the-badge)</a>
-
 
 Middleware for Koa that adds useful methods to the Koa context.
 
