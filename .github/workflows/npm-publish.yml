@@ -33,9 +33,7 @@ jobs:
         with:
           node-version: 14
           registry-url: https://registry.npmjs.org/
-      - run: yarn install
-      - run: yarn style
-      - run: yarn test
+      - run: yarn
       - run: yarn publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_RELEASE_TOKEN}}
@@ -51,8 +49,6 @@ jobs:
           registry-url: https://npm.pkg.github.com/
           scope: '@hitokoto-osc'
       - run: yarn
-      - run: yarn style
-      - run: yarn test
       - run: yarn publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.PKG_RELEASE_TOKEN}}
