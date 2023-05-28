@@ -48,7 +48,7 @@
     "koa": "2.13.0",
     "koa-router": "9.4.0",
     "mocha": "8.1.1",
-    "prettier": "2.0.5",
+    "prettier": "2.8.8",
     "sinon": "9.0.3",
     "sinon-chai": "3.5.0",
     "supertest": "4.0.2"
